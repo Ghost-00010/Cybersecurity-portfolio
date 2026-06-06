@@ -4,7 +4,6 @@ Hello! This is my cybersecurity portfolio which is mainly focus on displaying my
 
  **SOC Analyst | Junior Cybersecurity Analyst | Defense Security**
 
----
 
 
 # Practical Skills
